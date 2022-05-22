@@ -1,0 +1,43 @@
+
+[
+    {
+        "product_id" : 1,
+        "product_name" : "Jam",
+        "product_type" : "Sweet & Fruit",
+        "product_desc" : "A wonderful reciepe for kids",
+        "product_image" : "jam",
+        "product_price" : 100
+    },
+    {
+        "product_id" : 2,
+        "product_name" : "Bread",
+        "product_type" : "Wheat",
+        "product_desc" : "Baked food product made of flour or meal that is moistened, kneaded, and sometimes fermented",
+        "product_image" : "bread",
+        "product_price" : 70
+    },
+    {
+        "product_id" : 3,
+        "product_name" : "Apple",
+        "product_type" : "Fruit",
+        "product_desc" : "one of the most widely cultivated tree fruits",
+        "product_image" : "apple",
+        "product_price" : 90
+    },
+    {
+        "product_id" : 4,
+        "product_name" : "Orange",
+        "product_type" : "Fruit",
+        "product_desc" : "Oranges are round orange-coloured fruit that grow on a tree which can reach 10 metres (33 ft) high",
+        "product_image" : "orange",
+        "product_price" : 65
+    },
+    {
+        "product_id" : 5,
+        "product_name" : "Mango",
+        "product_type" : "Fruit",
+        "product_desc" : "The fruit varies greatly in size and character. Its form is oval, round, heart-shaped, kidney-shaped, or long and slender",
+        "product_image" : "mango",
+        "product_price" : 50
+    }
+]
